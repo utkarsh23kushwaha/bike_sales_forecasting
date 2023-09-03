@@ -1,5 +1,7 @@
 # Bike Store Sales Forecasting
 
+![image](https://github.com/utkarsh23kushwaha/bike_sales_forecasting/assets/72360686/2898c556-37bd-4737-95ff-7183c217a829)
+
 ## Overview
 
 This repository contains the code and dataset for forecasting the order quantity of a bike store chain's products based on historical sales data from 2011 to 2015. Developed a Gradient Boosting Regression model and a Random Forest Regressor model to predict future order quantities.
@@ -34,3 +36,6 @@ bike_sales_forecasting.ipynb contains is the Jupyter Notebook for this project. 
 | Train    | 3.76     | 84.70%   |
 | Val      | 4.16     | 80.18%   |
 | Test     | 4.24     | 79.50%   |
+
+
+
