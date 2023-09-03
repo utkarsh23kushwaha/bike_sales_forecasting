@@ -3,7 +3,7 @@
 
 ## Overview
 
-This repository contains the code and dataset for forecasting the order quantity of a bike store chain's products based on historical sales data from 2011 to 2015. We've developed a Gradient Boosting Regression model and a Random Forest Regressor model to predict future order quantities.
+This repository contains the code and dataset for forecasting the order quantity of a bike store chain's products based on historical sales data from 2011 to 2015. Developed a Gradient Boosting Regression model and a Random Forest Regressor model to predict future order quantities.
 
 ## Table of Contents
 
