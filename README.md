@@ -1,4 +1,3 @@
-# bike_sales_forecasting
 # Bike Store Sales Forecasting
 
 ## Overview
